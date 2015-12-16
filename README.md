@@ -1,0 +1,3 @@
+# Sample-Python-Ruby-Shell-Programs-
+Python,Ruby,Perl,Shell,R
+These are practice programs for beginners to intermediates.I would be uploading R language programs for data analysis in the coming days...
